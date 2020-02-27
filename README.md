@@ -48,3 +48,4 @@ export {
 
 - [TinyMCE](https://www.tinymce.com/)
 - [mb-icons](https://github.com/mockingbot/mb-icons) (for EditorToolbar)
+[![Run on Repl.it](https://repl.it/badge/github/mockingbot/mb-react-tinymce)](https://repl.it/github/mockingbot/mb-react-tinymce)
